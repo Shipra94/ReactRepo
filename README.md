@@ -29,3 +29,19 @@
 - Https
 - Tree Shaking - Remove unused code for you
 
+
+# App Layout
+
+ * Header Component
+ *    - Logo
+ *    - Nav Items
+ * Body
+ *  - Search
+ *  - Restaurant Container
+ *      - Restaurant Card
+ * Footer
+ *  - CopyRight
+ *  - Links
+ *  - Address
+ *  - Contact
+
